@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Mern Stack React.js Node.js Express.js JavaScript MongoDB Java Python <br>Cloudinary OAuth 
+Mern Stack React.js Node.js Express.js JavaScript MongoDB Java Python 
 
 
 ## 🌐 Socials:
