@@ -89,9 +89,10 @@ I am a <b>MERN Stack Developer</b> passionate about building full-stack applicat
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
     <a href="https://ayushportfolio-sigma.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<img width="217" height="213" alt="logo" src="https://github.com/user-attachments/assets/d9d9cf5f-0ed9-4b9c-9643-6a59584de0af" />
   </a>
 </p>
+
 
 ---
 
