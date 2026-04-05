@@ -19,7 +19,7 @@ I am a <b>MERN Stack Developer</b> passionate about building full-stack applicat
 
 <ul>
   <li>💻 MongoDB | Express.js | React.js | Node.js</li>
-  <li>⚙️ Docker | Redis | REST APIs</li>
+  <li>⚙️ Docker | Redis | REST APIs | Postman | Firebase</li>
   <li>🔐 JWT Authentication & Role-Based Access</li>
   <li>🌱 Learning System Design & DSA</li>
   <li>🎯 Open to Internship / Entry-Level Roles</li>
@@ -30,7 +30,7 @@ I am a <b>MERN Stack Developer</b> passionate about building full-stack applicat
 <h2>🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,docker,redis,js,html,css,git,postman,firebase,ejs" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,docker,redis,js,html,css,git,postman,firebase,ejs,github" />
 </p>
 
 ---
@@ -99,6 +99,9 @@ I am a <b>MERN Stack Developer</b> passionate about building full-stack applicat
 <h2>⚡ Fun Fact</h2>
 <p align="center">
 I love turning ideas into real-world applications 🚀
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushkr3864&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter"/>
 </p>
 
 <!-- Animated Footer -->
