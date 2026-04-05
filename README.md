@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Enthusiast;Building+Scalable+Web+Apps;Open+to+Opportunities🚀" />
 </p>
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushkr3864&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter"/>
-</p>
 
 ---
 
@@ -53,7 +49,7 @@ I am a <b>MERN Stack Developer</b> passionate about building full-stack applicat
 
 ---
 
-<h2>📌 Top Projects</h2>
+<h2>💼 Top Projects</h2>
 
 <ul>
   <li>
@@ -92,11 +88,14 @@ I am a <b>MERN Stack Developer</b> passionate about building full-stack applicat
   <a href="mailto:ayushkr.rai97@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+    <a href="https://ayushportfolio-sigma.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
 
-<h2>⚡ Fun Fact</h2>
+
 <p align="center">
 I love turning ideas into real-world applications 🚀
 </p>
