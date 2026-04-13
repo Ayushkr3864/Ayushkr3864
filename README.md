@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Enthusiast;Building+Scalable+Web+Apps;Open+to+Opportunities🚀" />
 </p>
 
-
 ---
 
 <h2>🚀 About Me</h2>
@@ -25,8 +24,29 @@ I am a <b>MERN Stack Developer</b> passionate about building full-stack applicat
 
 <h2>🛠️ Tech Stack</h2>
 
+<h3>🎨 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,docker,redis,js,html,css,git,postman,firebase,ejs,github" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,ejs" />
+</p>
+
+<h3>⚙️ Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<h3>🗄️ Database & Caching</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,firebase" />
+</p>
+
+<h3>🧰 Tools & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,firebase" />
+</p>
+
+<h3>🧠 Programming & DSA</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
 ---
@@ -77,29 +97,29 @@ I am a <b>MERN Stack Developer</b> passionate about building full-stack applicat
     🚀 Features: Dynamic UI with EJS, CRUD operations, Dockerized backend, Role based authentication
   </li>
 </ul>
+
 ---
 
 <h2>🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-kumar-ray/">
+  <a href="https://www.linkedin.com/in/ayush-kumar-ray/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:ayushkr.rai97@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-    <a href="https://ayushportfolio-sigma.vercel.app/">
-<img width="48" height="48" alt="logo" src="https://github.com/user-attachments/assets/d9d9cf5f-0ed9-4b9c-9643-6a59584de0af" />
+  <a href="https://ayushportfolio-sigma.vercel.app/">
+    <img width="48" height="48" alt="logo" src="https://github.com/user-attachments/assets/d9d9cf5f-0ed9-4b9c-9643-6a59584de0af" />
   </a>
 </p>
 
-
 ---
-
 
 <p align="center">
 I love turning ideas into real-world applications 🚀
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayushkr3864&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter"/>
 </p>
