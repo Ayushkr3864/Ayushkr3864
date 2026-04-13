@@ -25,27 +25,27 @@ I am a <b>MERN Stack Developer</b> passionate about building full-stack applicat
 <h2>🛠️ Tech Stack</h2>
 
 <h3>🎨 Frontend</h3>
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,html,css,js,ejs" />
 </p>
 
 <h3>⚙️ Backend</h3>
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 <h3>🗄️ Database & Caching</h3>
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb,redis,firebase" />
 </p>
 
 <h3>🧰 Tools & DevOps</h3>
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman,firebase" />
 </p>
 
 <h3>🧠 Programming & DSA</h3>
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
