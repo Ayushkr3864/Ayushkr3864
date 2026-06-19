@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:0A3D62,100:00F7FF&height=200&section=header&text=Ayush%20Kumar%20Ray&fontSize=50&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Enthusiast&descAlignY=58&descSize=18&descColor=FFFFFF"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Building+Scalable+Web+Applications;⚙️+MERN+Stack+%7C+Docker+%7C+Redis;🔐+JWT+Auth+%26+Role-Based+Access;🌱+Learning+System+Design+%26+DSA;💼+Open+to+Internship+%2F+Entry-Level+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Enthusiast;Building+Scalable+Web+Apps;Open+to+Opportunities" alt="Typing SVG" />
 
 <br/>
 
