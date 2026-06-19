@@ -1,140 +1,201 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar Ray</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Enthusiast;Building+Scalable+Web+Apps;Open+to+Opportunities🚀" alt="Typing animation introducing Ayush Kumar Ray" />
-</p>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:0A3D62,100:00F7FF&height=200&section=header&text=Ayush%20Kumar%20Ray&fontSize=50&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Enthusiast&descAlignY=58&descSize=18&descColor=FFFFFF"/>
 
-<p align="center">
-  <b>Full-Stack Developer focused on building scalable, user-centric web applications with the MERN stack.</b>
-</p>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Building+Scalable+Web+Applications;⚙️+MERN+Stack+%7C+Docker+%7C+Redis;🔐+JWT+Auth+%26+Role-Based+Access;🌱+Learning+System+Design+%26+DSA;💼+Open+to+Internship+%2F+Entry-Level+Roles" alt="Typing SVG" />
 
----
+<br/>
 
-<h2>🚀 About Me</h2>
-<p>
-  I am a <b>MERN Stack Developer</b> who enjoys transforming ideas into reliable full-stack products. I like building practical solutions, improving performance, and creating applications that deliver real value to users.
-</p>
+<!-- Profile Badge Row -->
+<a href="https://www.linkedin.com/in/ayush-kumar-ray/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ayushkr.rai97@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://ayushportfolio-sigma.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=ayushkr3864&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="visitor counter"/>
 
-<ul>
-  <li>💻 Core stack: MongoDB, Express.js, React.js, Node.js</li>
-  <li>⚙️ Hands-on with Docker, Redis, REST APIs, Postman, and Firebase</li>
-  <li>🔐 Comfortable building JWT authentication and role-based access systems</li>
-  <li>🌱 Currently learning System Design and sharpening DSA problem-solving</li>
-  <li>🎯 Open to internships, entry-level roles, and impactful collaboration opportunities</li>
-</ul>
-
----
-
-<h2>🛠️ Tech Stack</h2>
-
-<h3>🎨 Frontend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,ejs" alt="Frontend tech stack" />
-</p>
-
-<h3>⚙️ Backend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend tech stack" />
-</p>
-
-<h3>🗄️ Database & Caching</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,firebase" alt="Database and caching tools" />
-</p>
-
-<h3>🧰 Tools & DevOps</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,firebase" alt="Tools and DevOps stack" />
-</p>
-
-<h3>🧠 Programming & DSA</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js" alt="Programming languages" />
-</p>
+</div>
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkr3864&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ayush Kumar Ray GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr3864&theme=tokyonight&hide_border=true" alt="Ayush Kumar Ray GitHub streak stats" />
-</p>
-
----
-
-<h2>🔥 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkr3864&theme=tokyo-night&hide_border=true&area=true" alt="Ayush Kumar Ray contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayushkr3864/ayushkr3864/output/snake.svg" alt="Snake animation showing contribution graph activity" />
-</p>
+```ts
+const ayush = {
+  name:     "Ayush Kumar Ray",
+  role:     "MERN Stack Developer",
+  stack:    ["MongoDB", "Express.js", "React.js", "Node.js"],
+  tools:    ["Docker", "Redis", "Firebase", "Postman", "REST APIs"],
+  security: ["JWT Authentication", "Role-Based Access Control"],
+  learning: ["System Design", "Data Structures & Algorithms"],
+  status:   "Open to Internship / Entry-Level Roles 🎯",
+  mantra:   "Turn ideas into real-world applications 🚀",
+};
+```
 
 ---
 
-<h2>💼 Impact-Based Projects</h2>
+## 🛠️ Tech Stack
 
-<ul>
-  <li>
-    🔹 <b>Vendor Locator</b><br/>
-    🚀 Built a scalable MERN application that helps users discover nearby vendors with <b>30% faster search performance</b> by integrating Redis caching.<br/>
-    📈 Optimized API delivery to support <b>500+ simulated users</b> while maintaining response times under <b>200ms</b>.<br/>
-    ⚙️ Tech: MongoDB, Express.js, React.js, Node.js, Redis, Docker<br/>
-    💡 Impact: Improved retrieval efficiency, reduced server load, and created a stronger foundation for scale-ready deployment.
-  </li>
+<div align="center">
 
-  <br/>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,js,ejs&theme=dark" />
 
-  <li>
-    🔹 <b>Helping Hand Foundation</b><br/>
-    🚀 Developed a full-stack platform that connects users for resource sharing within an NGO-focused ecosystem.<br/>
-    📈 Implemented secure authentication and role-based access for <b>100+ active users</b> to ensure safe and structured workflows.<br/>
-    ⚙️ Tech: MongoDB, Express.js, React.js, Node.js<br/>
-    💡 Impact: Streamlined request management and reduced manual coordination effort by <b>40%</b>.
-  </li>
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-  <br/>
+### 🗄️ Database & Caching
+<img src="https://skillicons.dev/icons?i=mongodb,redis,firebase&theme=dark" />
 
-  <li>
-    🔹 <b>Resource Sharing App</b><br/>
-    🚀 Designed a server-rendered application with dynamic UI using EJS and RESTful APIs for smoother content interaction.<br/>
-    📈 Built reliable CRUD workflows with <b>99% data consistency</b> and efficient backend request handling.<br/>
-    ⚙️ Tech: MongoDB, Express.js, EJS, Docker<br/>
-    💡 Impact: Reduced deployment setup time by <b>50%</b> through Docker-based containerization and cleaner environment setup.
-  </li>
-</ul>
+### 🧰 Tools & DevOps
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,firebase&theme=dark" />
+
+### 🧠 Programming & DSA
+<img src="https://skillicons.dev/icons?i=java,js&theme=dark" />
+
+</div>
 
 ---
 
-<h2>🌐 Connect With Me</h2>
+## 💼 Impact-Based Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-kumar-ray/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ayushkr.rai97@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-  <a href="https://ayushportfolio-sigma.vercel.app/">
-    <img width="48" height="48" alt="Portfolio" src="https://github.com/user-attachments/assets/d9d9cf5f-0ed9-4b9c-9643-6a59584de0af" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 Vendor Locator</h3>
+      <p><b>Tech:</b> MongoDB · Express.js · React.js · Node.js · Redis · Docker</p>
+      <ul>
+        <li>🚀 Scalable MERN app to discover nearby vendors</li>
+        <li>⚡ <b>30% faster search</b> via Redis caching</li>
+        <li>📈 Handled <b>500+ simulated users</b> with API response <b>&lt;200ms</b></li>
+        <li>🐳 Containerized with Docker for optimized deployment</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Helping Hand Foundation</h3>
+      <p><b>Tech:</b> MongoDB · Express.js · React.js · Node.js</p>
+      <ul>
+        <li>🚀 Platform to connect users for resource sharing in NGO ecosystem</li>
+        <li>🔐 Secure auth for <b>100+ active users</b> with role-based access</li>
+        <li>📉 Reduced manual coordination efforts by <b>40%</b></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 Resource Sharing App</h3>
+      <p><b>Tech:</b> MongoDB · Express.js · EJS · Docker</p>
+      <ul>
+        <li>🚀 Server-rendered app with dynamic UI and RESTful APIs</li>
+        <li>✅ CRUD operations with <b>99% data consistency</b></li>
+        <li>🐳 Docker-based deployment cut setup time by <b>50%</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 More Coming Soon...</h3>
+      <p>Currently learning System Design & DSA to build even more impactful projects.</p>
+      <ul>
+        <li>⚙️ Exploring microservices architecture</li>
+        <li>📐 Diving deeper into scalability patterns</li>
+        <li>🔭 Open to collaborations!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  I love turning ideas into real-world applications 🚀
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushkr3864&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor counter" />
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushkr3864&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr3864&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr3864&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+
+</div>
+
+---
+
+## 🔥 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkr3864&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
+</div>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushkr3864/ayushkr3864/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushkr3864/ayushkr3864/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ayushkr3864/ayushkr3864/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+> ⚙️ **Setup Note:** To enable the snake animation, add this GitHub Actions workflow to your profile repo at `.github/workflows/snake.yml`:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 */12 * * *"
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: ayushkr3864
+>           outputs: |
+>             dist/github-snake.svg
+>             dist/github-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3.1.0
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ayush-kumar-ray/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:ayushkr.rai97@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://ayushportfolio-sigma.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=About.me&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+> *"I love turning ideas into real-world applications 🚀"*
+
+</div>
 
 <!-- Animated Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer" alt="Animated footer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
