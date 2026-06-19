@@ -1,23 +1,26 @@
-# <h1 align="center">Hi 👋, I'm Ayush Kumar Ray</h1>
+<h1 align="center">Hi 👋, I'm Ayush Kumar Ray</h1>
 
-<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Enthusiast;Building+Scalable+Web+Apps;Open+to+Opportunities🚀" alt="Typing animation introducing Ayush Kumar Ray" />
+</p>
+
+<p align="center">
+  <b>Full-Stack Developer focused on building scalable, user-centric web applications with the MERN stack.</b>
 </p>
 
 ---
 
 <h2>🚀 About Me</h2>
 <p>
-  I am a <b>MERN Stack Developer</b> passionate about building full-stack applications and solving real-world problems.
+  I am a <b>MERN Stack Developer</b> who enjoys transforming ideas into reliable full-stack products. I like building practical solutions, improving performance, and creating applications that deliver real value to users.
 </p>
 
 <ul>
-  <li>💻 MongoDB | Express.js | React.js | Node.js</li>
-  <li>⚙️ Docker | Redis | REST APIs | Postman | Firebase</li>
-  <li>🔐 JWT Authentication & Role-Based Access</li>
-  <li>🌱 Learning System Design & DSA</li>
-  <li>🎯 Open to Internship / Entry-Level Roles</li>
+  <li>💻 Core stack: MongoDB, Express.js, React.js, Node.js</li>
+  <li>⚙️ Hands-on with Docker, Redis, REST APIs, Postman, and Firebase</li>
+  <li>🔐 Comfortable building JWT authentication and role-based access systems</li>
+  <li>🌱 Currently learning System Design and sharpening DSA problem-solving</li>
+  <li>🎯 Open to internships, entry-level roles, and impactful collaboration opportunities</li>
 </ul>
 
 ---
@@ -54,7 +57,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkr3864&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush Kumar Ray GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushkr3864&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ayush Kumar Ray GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr3864&theme=tokyonight&hide_border=true" alt="Ayush Kumar Ray GitHub streak stats" />
 </p>
@@ -64,7 +67,11 @@
 <h2>🔥 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkr3864&theme=tokyo-night&hide_border=true" alt="Ayush Kumar Ray contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkr3864&theme=tokyo-night&hide_border=true&area=true" alt="Ayush Kumar Ray contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushkr3864/ayushkr3864/output/snake.svg" alt="Snake animation showing contribution graph activity" />
 </p>
 
 ---
@@ -74,30 +81,30 @@
 <ul>
   <li>
     🔹 <b>Vendor Locator</b><br/>
-    🚀 Built a scalable MERN application enabling users to discover nearby vendors with <b>30% faster search performance</b> using Redis caching.<br/>
-    📈 Handled <b>500+ simulated users</b> with optimized API response time (<b>&lt;200ms</b>).<br/>
+    🚀 Built a scalable MERN application that helps users discover nearby vendors with <b>30% faster search performance</b> by integrating Redis caching.<br/>
+    📈 Optimized API delivery to support <b>500+ simulated users</b> while maintaining response times under <b>200ms</b>.<br/>
     ⚙️ Tech: MongoDB, Express.js, React.js, Node.js, Redis, Docker<br/>
-    💡 Impact: Improved data retrieval efficiency and reduced server load through caching and containerized deployment.
+    💡 Impact: Improved retrieval efficiency, reduced server load, and created a stronger foundation for scale-ready deployment.
   </li>
 
   <br/>
 
   <li>
     🔹 <b>Helping Hand Foundation</b><br/>
-    🚀 Developed a full-stack platform to connect users for resource sharing within an NGO ecosystem.<br/>
-    📈 Implemented a secure authentication system supporting <b>100+ active users</b> and role-based access.<br/>
+    🚀 Developed a full-stack platform that connects users for resource sharing within an NGO-focused ecosystem.<br/>
+    📈 Implemented secure authentication and role-based access for <b>100+ active users</b> to ensure safe and structured workflows.<br/>
     ⚙️ Tech: MongoDB, Express.js, React.js, Node.js<br/>
-    💡 Impact: Streamlined request management, reducing manual coordination efforts by <b>40%</b>.
+    💡 Impact: Streamlined request management and reduced manual coordination effort by <b>40%</b>.
   </li>
 
   <br/>
 
   <li>
     🔹 <b>Resource Sharing App</b><br/>
-    🚀 Designed a server-rendered application with a dynamic UI using EJS and RESTful APIs.<br/>
-    📈 Implemented CRUD operations with <b>99% data consistency</b> and efficient backend handling.<br/>
+    🚀 Designed a server-rendered application with dynamic UI using EJS and RESTful APIs for smoother content interaction.<br/>
+    📈 Built reliable CRUD workflows with <b>99% data consistency</b> and efficient backend request handling.<br/>
     ⚙️ Tech: MongoDB, Express.js, EJS, Docker<br/>
-    💡 Impact: Reduced deployment setup time by <b>50%</b> using Docker-based containerization.
+    💡 Impact: Reduced deployment setup time by <b>50%</b> through Docker-based containerization and cleaner environment setup.
   </li>
 </ul>
 
