@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:0A3D62,100:00F7FF&height=200&section=header&text=Ayush%20Kumar%20Ray&fontSize=50&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Enthusiast&descAlignY=58&descSize=18&descColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:1a0533,100:BF00FF&height=200&section=header&text=Ayush%20Kumar%20Ray&fontSize=50&fontColor=BF00FF&animation=twinkling&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Enthusiast&descAlignY=58&descSize=18&descColor=FFFFFF"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Building+Scalable+Web+Applications;⚙️+MERN+Stack+%7C+Docker+%7C+Redis;🔐+JWT+Auth+%26+Role-Based+Access;🌱+Learning+System+Design+%26+DSA;💼+Open+to+Internship+%2F+Entry-Level+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=BF00FF&background=00000000&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hey+there!+I'm+Ayush+Kumar+Ray+👋;MERN+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Web+Applications+🚀;Docker+%7C+Redis+%7C+JWT+%7C+REST+APIs;Open+to+Internship+%2F+Entry-Level+Roles+🎯" alt="Typing SVG" />
 
 <br/>
 
@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://ayushportfolio-sigma.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Portfolio-BF00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=ayushkr3864&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=ayushkr3864&label=Profile+Views&color=BF00FF&style=for-the-badge" alt="visitor counter"/>
 
 </div>
 
@@ -116,12 +116,12 @@ const ayush = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushkr3864&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr3864&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushkr3864&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF00FF&icon_color=BF00FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr3864&theme=tokyonight&hide_border=true&background=0D1117&stroke=BF00FF&ring=BF00FF&fire=FF6B6B&currStreakLabel=BF00FF" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr3864&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr3864&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF00FF&text_color=FFFFFF" />
 
 </div>
 
@@ -130,7 +130,7 @@ const ayush = {
 ## 🔥 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkr3864&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkr3864&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=BF00FF&line=BF00FF&point=FFFFFF" />
 </div>
 
 ---
@@ -140,15 +140,12 @@ const ayush = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushkr3864/ayushkr3864/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushkr3864/ayushkr3864/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ayushkr3864/ayushkr3864/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushkr3864/Ayushkr3864/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayushkr3864/Ayushkr3864/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ayushkr3864/Ayushkr3864/output/github-snake-dark.svg" />
 </picture>
 
 </div>
-
-> ⚙️ **Setup Note:** To enable the snake animation, add this GitHub Actions workflow to your profile repo at `.github/workflows/snake.yml`:
->
 
 ---
 
@@ -165,7 +162,7 @@ const ayush = {
 </a>
 &nbsp;
 <a href="https://ayushportfolio-sigma.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=About.me&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Portfolio-BF00FF?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -175,4 +172,4 @@ const ayush = {
 </div>
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF00FF,100:1a0533&height=120&section=footer"/>
