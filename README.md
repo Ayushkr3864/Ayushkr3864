@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar Ray</h1>
 <div align="center">
 
 <!-- Animated Header Banner -->
