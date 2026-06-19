@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://ayushportfolio-sigma.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Portfolio-BF00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=ayushkr3864&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=ayushkr3864&label=Profile+Views&color=BF00FF&style=for-the-badge" alt="visitor counter"/>
 
 </div>
 
